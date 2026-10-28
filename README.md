@@ -1,6 +1,6 @@
-# Kweli Wallet Manager
+# Vybentity 
 
-Building a Secure Decentralized Digital Identity
+Vybentity is short for vybe identity, which is a self-sovereign identity management system built on top of the Hyperledger Indy blockchain.
 
 ## Installation
 
@@ -21,7 +21,7 @@ indy-cli
    1. this runs indy-sdk, mongo db and mongo express
 4. Go back to the main directory and use docker compose once again: `docker-compose up -d`
 
-The Kweli Wallet manager consists of a web GUI frontend and a web service backend.
+Vybentity consists of a web GUI frontend and a web service backend.
 
 
 ## Development Usage
